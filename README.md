@@ -12,7 +12,7 @@
 <p align="center">
     <img height=177 src="https://github-readme-stats.vercel.app/api?username=masumbabacan&show_icons=true&bg_color=f8f8ff&text_color=808080&title_color=808080&icon_color=808080&hide_border=true">
   
-  <img height=177 src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumbabacan&bg_color=f8f8ff&text_color=808080&title_color=808080&hide_border=true&layout=compact&langs_count=8">
+  <img height=177 src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumbabacan&bg_color=f8f8ff&text_color=808080&title_color=808080&hide_border=true&layout=compact&langs_count=7">
 </p>
 
 <h3 align ="center"> 𝚖𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 </h3>
