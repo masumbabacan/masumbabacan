@@ -1,9 +1,12 @@
+<p align="center">
+    
 ### Hi, I'm Masum Babacan! 👋
-
+    
 - 🔭 I’m currently working on HRMS(human resource management system)
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: masum1cocuxx@gmail.com / [Twitter - @masumbabacan](https://twitter.com/masumbabacan)
-
+ 
+</p>
 
 
 <p align="center">
