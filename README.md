@@ -1,10 +1,29 @@
 <p align="center">
     
-### Hi, I'm Masum Babacan! 👋
-    
-- 🔭 I’m currently working on HRMS(human resource management system)
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me: masum1cocuxx@gmail.com / [Twitter - @masumbabacan](https://twitter.com/masumbabacan)
+ 
+<h2 align = "center">Hi, I'm Masum Babacan! 👋</h2>
+
+<div align = "center">
+      <h4> 
+          
+ How to reach me: masum1cocuxx@gmail.com / [Twitter - @masumbabacan](https://twitter.com/masumbabacan)
+  </h4>
+</div>    
+
+<div align = "center">
+ <h4>   
+ I’m currently working on HRMS(human resource management system)
+    </h4>
+</div>
+
+<div align = "center">
+     <h4> 
+ I’m currently learning Java.
+     </h4>
+</div>
+
+
+
  
 </p>
 
