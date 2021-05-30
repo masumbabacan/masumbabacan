@@ -62,7 +62,6 @@
   </div>
  
   
- [![Github](https://img.shields.io/github/stars/masumbabacan?label=Star&style=social)](https://github.com/masumbabacan)
 
   
 
