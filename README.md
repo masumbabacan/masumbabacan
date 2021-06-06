@@ -27,7 +27,12 @@
  
 </p>
 
-
+<div align="center">
+   
+[![GitHub followers](https://img.shields.io/github/followers/masumbabacan?style=social)](https://github.com/masumbabacan?tab=followers) ![GitHub stars](https://img.shields.io/github/stars/masumbabacan?style=social)
+    [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=masumbabacan.visitor-badge)](https://GitHub.com/masumbabacan/StrapDown.js/stargazers/)
+    
+</div>
 
 <div align="center" height=100>
     
@@ -37,29 +42,33 @@
 
 </div>
 
-<h3 align ="center"> 𝚖𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 </h3>
+<h3 align ="center"> <img src="https://img.shields.io/badge/My Interests-545d68?style=for-the-badge&logo=&logoColor=white"></img> </h3>
 
 <div align="center">  
     
-  ![C#](https://img.shields.io/badge/C%23-239120?style=badge&logo=c-sharp&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-545d68?style=badge&logo=c-sharp&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-545d68?style=flat&logo=java&logoColor=white)
   
   </div>
   
   <div align="center">  
   
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=badge&logo=javascript&logoColor=black) ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logo=typescript&logoColor=white)      
+  ![HTML5](https://img.shields.io/badge/-HTML5-545d68?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-545d68?style=flat&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-545d68?style=badge&logo=javascript&logoColor=white) ![Typescript](https://img.shields.io/badge/-Typescript-545d68?style=flat&logo=typescript&logoColor=white)      
   
   </div>
   
 
 <div align="center">
 
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=badge&logo=git&logoColor=white) 
+  ![Angular](https://img.shields.io/badge/-Angular-545d68?style=flat&logo=angular&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-545d68?style=flat&logo=bootstrap&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-545d68?style=flat&logo=react&logoColor=white) 
+  ![Git](https://img.shields.io/badge/Git-545d68?style=badge&logo=git&logoColor=white) 
  
   </div>
+  
+
+
+
  
   
 
