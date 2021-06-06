@@ -30,7 +30,6 @@
 <div align="center">
    
 [![GitHub followers](https://img.shields.io/github/followers/masumbabacan?style=social)](https://github.com/masumbabacan?tab=followers) ![GitHub stars](https://img.shields.io/github/stars/masumbabacan?style=social)
-    [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=masumbabacan.visitor-badge)](https://GitHub.com/masumbabacan/StrapDown.js/stargazers/)
     
 </div>
 
