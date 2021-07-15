@@ -37,7 +37,6 @@
     
  <img height=177  src="https://github-readme-stats.vercel.app/api?username=masumbabacan&show_icons=true&theme=dark">
   
- <img height=177  src="https://github-readme-stats.vercel.app/api/top-langs/?username=masumbabacan&theme=dark&layout=compact">
 
 </div>
 
