@@ -33,13 +33,6 @@
     
 </div>
 
-<div align="center" height=100>
-    
- <img height=177  src="https://github-readme-stats.vercel.app/api?username=masumbabacan&show_icons=true&theme=dark">
-  
-
-</div>
-
 <h3 align ="center"> <img src="https://img.shields.io/badge/My Interests-545d68?style=for-the-badge&logo=&logoColor=white"></img> </h3>
 
 <div align="center">  
