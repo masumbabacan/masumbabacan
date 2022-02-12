@@ -37,22 +37,22 @@
 
 <div align="center">  
     
-  ![C#](https://img.shields.io/badge/C%23-545d68?style=badge&logo=c-sharp&logoColor=white)  
-  ![Java](https://img.shields.io/badge/-Java-545d68?style=flat&logo=java&logoColor=white) 
-  ![Php](https://img.shields.io/badge/-Php-545d68?style=flat&logo=php&logoColor=white) 
+  ![C#](https://img.shields.io/badge/C%23-545d68?style=badge&logo=c-sharp&logoColor=white) ![Php](https://img.shields.io/badge/-Php-545d68?style=flat&logo=php&logoColor=white)   ![Java](https://img.shields.io/badge/-Java-545d68?style=flat&logo=java&logoColor=white) 
+
+
   
   </div>
   
   <div align="center">  
   
-  ![HTML5](https://img.shields.io/badge/-HTML5-545d68?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-545d68?style=flat&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-545d68?style=badge&logo=javascript&logoColor=white) ![Typescript](https://img.shields.io/badge/-Typescript-545d68?style=flat&logo=typescript&logoColor=white)      
+  ![HTML5](https://img.shields.io/badge/-HTML5-545d68?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-545d68?style=flat&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-545d68?style=badge&logo=javascript&logoColor=white) ![Jquery](https://img.shields.io/badge/-Jquery-545d68?style=flat&logo=jquery&logoColor=white)
   
   </div>
   
 
 <div align="center">
 
-  ![Angular](https://img.shields.io/badge/-Jquery-545d68?style=flat&logo=jquery&logoColor=white)
+  
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-545d68?style=flat&logo=bootstrap&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-545d68?style=badge&logo=git&logoColor=white) 
  
