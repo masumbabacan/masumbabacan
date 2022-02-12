@@ -37,7 +37,9 @@
 
 <div align="center">  
     
-  ![C#](https://img.shields.io/badge/C%23-545d68?style=badge&logo=c-sharp&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-545d68?style=flat&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-545d68?style=badge&logo=c-sharp&logoColor=white)  
+  ![Java](https://img.shields.io/badge/-Java-545d68?style=flat&logo=java&logoColor=white) 
+  ![Php](https://img.shields.io/badge/-Php-545d68?style=flat&logo=php&logoColor=white) 
   
   </div>
   
@@ -52,7 +54,6 @@
 
   ![Angular](https://img.shields.io/badge/-Jquery-545d68?style=flat&logo=jquery&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-545d68?style=flat&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/-Php-545d68?style=flat&logo=php&logoColor=white) 
   ![Git](https://img.shields.io/badge/Git-545d68?style=badge&logo=git&logoColor=white) 
  
   </div>
