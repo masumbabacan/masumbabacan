@@ -37,7 +37,7 @@
 
 <div align="center">  
     
-  ![C#](https://img.shields.io/badge/C%23-545d68?style=badge&logo=c-sharp&logoColor=white) ![Php](https://img.shields.io/badge/-Php-545d68?style=flat&logo=php&logoColor=white)   ![Java](https://img.shields.io/badge/-Java-545d68?style=flat&logo=java&logoColor=white) 
+  ![C#](https://img.shields.io/badge/C%23-545d68?style=badge&logo=c-sharp&logoColor=white) ![Php](https://img.shields.io/badge/-Php-545d68?style=flat&logo=php&logoColor=white)   
 
 
   
