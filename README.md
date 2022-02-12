@@ -10,17 +10,6 @@
   </h4>
 </div>    
 
-<div align = "center">
- <h4>   
- I’m currently working on Library Managment System
-    </h4>
-</div>
-
-<div align = "center">
-     <h4> 
- I’m currently learning Java.
-     </h4>
-</div>
 
 
 
