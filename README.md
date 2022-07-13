@@ -26,7 +26,7 @@
 
 <div align="center">  
     
-  ![C#](https://img.shields.io/badge/C%23-545d68?style=badge&logo=c-sharp&logoColor=white) ![Php](https://img.shields.io/badge/-Php-545d68?style=flat&logo=php&logoColor=white) ![Codeigniter](https://img.shields.io/badge/-Codeigniter-545d68?style=flat&logo=codeigniter&logoColor=white)  
+  ![NODEJS](https://img.shields.io/badge/C%23-545d68?style=badge&logo=c-sharp&logoColor=white) ![Php](https://img.shields.io/badge/-Php-545d68?style=flat&logo=php&logoColor=white) ![Codeigniter](https://img.shields.io/badge/-Codeigniter-545d68?style=flat&logo=codeigniter&logoColor=white)  
 
 
   
