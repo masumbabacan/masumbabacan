@@ -1,6 +1,6 @@
 
-<h1 align="left">Hi 👋, I'm Masum Babacan</h1>
-<h3 align="left">A passionate backend developer from Türkiye</h3>
+<h1 align="center">Hi 👋, I'm Masum Babacan</h1>
+<h3 align="center">A passionate backend developer from Türkiye</h3>
 
 
 - 🔭 I’m currently working on **Professional Blog Project**
