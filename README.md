@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Masum Babacan</h1>
-<h3 align="center">A passionate backend developer from Türkiye</h3>
+
+<h1 align="left">Hi 👋, I'm Masum Babacan</h1>
+<h3 align="left">A passionate backend developer from Türkiye</h3>
+
 
 - 🔭 I’m currently working on **Professional Blog Project**
 
 - 🌱 I’m currently learning **Professional level node js**
 
 <h3 align="left">Connect with me:</h3>
+
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/masumbabacan) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/masum-babacan-469bb020b/)
 
