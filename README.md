@@ -20,4 +20,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git)](https://skillicons.dev)
