@@ -1,6 +1,3 @@
-
-![Profile views](https://gpvc.arturio.dev/masumbabacan)<br/>
-
 <h1 align="center">Hi 👋, I'm Masum Babacan</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
